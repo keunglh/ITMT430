@@ -1,0 +1,16 @@
+PHP usage of MySQLi
+http://php.net/manual/en/book.mysqli.php
+http://php.net/manual/en/mysqli.quickstart.connections.php
+
+Running SQL commands from Shell Script
+http://www.computerhope.com/unix/mysql.htm
+
+MySQL Examples
+http://www.thegeekstuff.com/2014/11/mysql-insert-command/
+
+sed -i to replace string in a file
+https://github.com/jhajek/cloud-images/blob/master/ubuntu-14.04/post_install.sh
+http://stackoverflow.com/questions/5955548/how-do-i-use-sed-to-change-my-configuration-files-with-flexible-keys-and-values
+
+Bind Static Address in MySQL
+http://askubuntu.com/questions/33018/how-to-bind-to-static-ip-address-in-mysql
