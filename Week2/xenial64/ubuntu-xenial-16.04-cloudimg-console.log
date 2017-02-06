@@ -647,4 +647,258 @@ Ub[   49.050701] cloud-init[1472]: Cloud-init v. 0.7.8 running 'modules:final' a
 untu 16.04.1 LTS ubuntu-xenial ttyS0
 
 [   49.057471] cloud-init[1472]: Cloud-init v. 0.7.8 finished at Fri, 20 Jan 2017 21:51:39 +0000. Datasource DataSourceNoCloud [seed=/dev/sdb][dsmode=net].  Up 49.02 seconds
-ubuntu-xenial login: 
+ubuntu-xenial login: [71363.349683] sd 2:0:0:0: [sda] tag#28 Medium access timeout failure. Offlining disk!
+[71374.714481] blk_update_request: I/O error, dev sda, sector 8726016
+[71374.770698] Buffer I/O error on device sda1, logical block 1090496
+[71374.788477] Buffer I/O error on device sda1, logical block 1090497
+[71374.792357] Buffer I/O error on device sda1, logical block 1090498
+[71374.802158] Buffer I/O error on device sda1, logical block 1090499
+[71374.807752] Buffer I/O error on device sda1, logical block 1090500
+[71374.810593] Buffer I/O error on device sda1, logical block 1090501
+[71374.811742] Buffer I/O error on device sda1, logical block 1090502
+[71374.826695] Buffer I/O error on device sda1, logical block 1090503
+[71374.836678] Buffer I/O error on device sda1, logical block 1090504
+[71374.844998] Buffer I/O error on device sda1, logical block 1090505
+[71374.852879] sd 2:0:0:0: rejecting I/O to offline device
+[71374.878254] sd 2:0:0:0: rejecting I/O to offline device
+[71374.878302] blk_update_request: I/O error, dev sda, sector 8726968
+[71375.091678] sd 2:0:0:0: rejecting I/O to offline device
+[71375.095252] sd 2:0:0:0: rejecting I/O to offline device
+[71375.971650] sd 2:0:0:0: rejecting I/O to offline device
+[71375.978110] sd 2:0:0:0: rejecting I/O to offline device
+[71375.979779] sd 2:0:0:0: rejecting I/O to offline device
+[71375.981222] sd 2:0:0:0: rejecting I/O to offline device
+[71375.982907] sd 2:0:0:0: rejecting I/O to offline device
+[71376.097580] sd 2:0:0:0: rejecting I/O to offline device
+[71377.088622] sd 2:0:0:0: rejecting I/O to offline device
+[71377.091621] sd 2:0:0:0: rejecting I/O to offline device
+[71377.499899] sd 2:0:0:0: rejecting I/O to offline device
+[71377.501267] sd 2:0:0:0: rejecting I/O to offline device
+[71379.015606] sd 2:0:0:0: rejecting I/O to offline device
+[71380.088698] sd 2:0:0:0: rejecting I/O to offline device
+[71381.605107] sd 2:0:0:0: rejecting I/O to offline device
+[71383.117430] sd 2:0:0:0: rejecting I/O to offline device
+[71384.050971] sd 2:0:0:0: rejecting I/O to offline device
+[71384.089164] sd 2:0:0:0: rejecting I/O to offline device
+[71385.506614] sd 2:0:0:0: rejecting I/O to offline device
+[71386.713728] sd 2:0:0:0: rejecting I/O to offline device
+[71388.115905] sd 2:0:0:0: rejecting I/O to offline device
+[71389.090611] sd 2:0:0:0: rejecting I/O to offline device
+[71389.091788] sd 2:0:0:0: rejecting I/O to offline device
+[71389.092962] sd 2:0:0:0: rejecting I/O to offline device
+[71389.094118] sd 2:0:0:0: rejecting I/O to offline device
+[71389.095422] sd 2:0:0:0: rejecting I/O to offline device
+[71390.644136] sd 2:0:0:0: rejecting I/O to offline device
+[71392.360749] sd 2:0:0:0: rejecting I/O to offline device
+[71393.105283] sd 2:0:0:0: rejecting I/O to offline device
+[71394.091365] sd 2:0:0:0: rejecting I/O to offline device
+[71394.092800] sd 2:0:0:0: rejecting I/O to offline device
+[71394.273789] sd 2:0:0:0: rejecting I/O to offline device
+[71395.044533] sd 2:0:0:0: rejecting I/O to offline device
+[71395.046163] sd 2:0:0:0: rejecting I/O to offline device
+[71395.047784] sd 2:0:0:0: rejecting I/O to offline device
+[71395.049476] sd 2:0:0:0: rejecting I/O to offline device
+[71395.234706] sd 2:0:0:0: rejecting I/O to offline device
+[71397.061946] sd 2:0:0:0: rejecting I/O to offline device
+[71398.590962] sd 2:0:0:0: rejecting I/O to offline device
+[71400.016516] sd 2:0:0:0: rejecting I/O to offline device
+[71401.089878] sd 2:0:0:0: rejecting I/O to offline device
+[71402.542466] sd 2:0:0:0: rejecting I/O to offline device
+[71404.088699] sd 2:0:0:0: rejecting I/O to offline device
+[71405.662298] sd 2:0:0:0: rejecting I/O to offline device
+[71406.089317] sd 2:0:0:0: rejecting I/O to offline device
+[71407.042178] sd 2:0:0:0: rejecting I/O to offline device
+[71407.088462] sd 2:0:0:0: rejecting I/O to offline device
+[71407.089580] sd 2:0:0:0: rejecting I/O to offline device
+[71407.090707] sd 2:0:0:0: rejecting I/O to offline device
+[71407.091837] sd 2:0:0:0: rejecting I/O to offline device
+[71407.093040] sd 2:0:0:0: rejecting I/O to offline device
+[71408.230525] sd 2:0:0:0: rejecting I/O to offline device
+[71409.746478] sd 2:0:0:0: rejecting I/O to offline device
+[71411.246270] sd 2:0:0:0: rejecting I/O to offline device
+[71412.873290] sd 2:0:0:0: rejecting I/O to offline device
+[71414.101642] sd 2:0:0:0: rejecting I/O to offline device
+[71414.103232] sd 2:0:0:0: rejecting I/O to offline device
+[71415.663959] sd 2:0:0:0: rejecting I/O to offline device
+[71417.167990] sd 2:0:0:0: rejecting I/O to offline device
+[71418.754229] sd 2:0:0:0: rejecting I/O to offline device
+[71419.042341] sd 2:0:0:0: rejecting I/O to offline device
+[71419.043511] sd 2:0:0:0: rejecting I/O to offline device
+[71419.044696] sd 2:0:0:0: rejecting I/O to offline device
+[71419.576783] sd 2:0:0:0: rejecting I/O to offline device
+[71420.368461] sd 2:0:0:0: rejecting I/O to offline device
+[71421.089193] sd 2:0:0:0: rejecting I/O to offline device
+[71422.551437] sd 2:0:0:0: rejecting I/O to offline device
+[71424.087438] sd 2:0:0:0: rejecting I/O to offline device
+[71425.090985] sd 2:0:0:0: rejecting I/O to offline device
+[71425.092235] sd 2:0:0:0: rejecting I/O to offline device
+[71425.671212] sd 2:0:0:0: rejecting I/O to offline device
+[71427.090077] sd 2:0:0:0: rejecting I/O to offline device
+[71427.091813] sd 2:0:0:0: rejecting I/O to offline device
+[71427.093426] sd 2:0:0:0: rejecting I/O to offline device
+[71427.555817] sd 2:0:0:0: rejecting I/O to offline device
+[71428.088620] sd 2:0:0:0: rejecting I/O to offline device
+[71428.089754] sd 2:0:0:0: rejecting I/O to offline device
+[71428.090893] sd 2:0:0:0: rejecting I/O to offline device
+[71428.092287] sd 2:0:0:0: rejecting I/O to offline device
+[71429.877998] sd 2:0:0:0: rejecting I/O to offline device
+[71430.014861] sd 2:0:0:0: rejecting I/O to offline device
+[71430.088549] sd 2:0:0:0: rejecting I/O to offline device
+[71430.089953] sd 2:0:0:0: rejecting I/O to offline device
+[71430.091796] sd 2:0:0:0: rejecting I/O to offline device
+[71431.095689] sd 2:0:0:0: rejecting I/O to offline device
+[71431.097166] sd 2:0:0:0: rejecting I/O to offline device
+[71431.098615] sd 2:0:0:0: rejecting I/O to offline device
+[71431.108685] sd 2:0:0:0: rejecting I/O to offline device
+[71431.242924] sd 2:0:0:0: rejecting I/O to offline device
+[71433.088286] sd 2:0:0:0: rejecting I/O to offline device
+[71434.549754] sd 2:0:0:0: rejecting I/O to offline device
+[71435.090734] sd 2:0:0:0: rejecting I/O to offline device
+[71435.092166] sd 2:0:0:0: rejecting I/O to offline device
+[71435.093521] sd 2:0:0:0: rejecting I/O to offline device
+[71435.095060] sd 2:0:0:0: rejecting I/O to offline device
+[71436.209730] sd 2:0:0:0: rejecting I/O to offline device
+[71437.090426] sd 2:0:0:0: rejecting I/O to offline device
+[71439.069472] sd 2:0:0:0: rejecting I/O to offline device
+[71440.077626] sd 2:0:0:0: rejecting I/O to offline device
+[71441.711278] sd 2:0:0:0: rejecting I/O to offline device
+[71443.044391] sd 2:0:0:0: rejecting I/O to offline device
+[71444.331052] sd 2:0:0:0: rejecting I/O to offline device
+[71446.092184] sd 2:0:0:0: rejecting I/O to offline device
+[71447.816080] sd 2:0:0:0: rejecting I/O to offline device
+[71449.089181] sd 2:0:0:0: rejecting I/O to offline device
+[71449.090379] sd 2:0:0:0: rejecting I/O to offline device
+[71449.091520] sd 2:0:0:0: rejecting I/O to offline device
+[71450.042214] sd 2:0:0:0: rejecting I/O to offline device
+[71451.321331] sd 2:0:0:0: rejecting I/O to offline device
+[71452.175576] INFO: rcu_sched self-detected stall on CPU[71452.175652] INFO: rcu_sched detected stalls on CPUs/tasks:[71452.175656] 	0-...: (9 ticks this GP) idle=dfb/140000000000001/0 softirq=85159/85159 fqs=9 
+[71452.175656] 	[71452.175704] rcu_sched kthread starved for 19331 jiffies! g67441 c67440 f0x0 s3 ->state=0x1
+[71452.175807] Aborting journal on device sda1-8.
+[71452.175819] sd 2:0:0:0: rejecting I/O to offline device
+[71452.175822] JBD2: Error -5 detected when updating journal superblock for sda1-8.
+[71452.176522] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176554] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176582] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176610] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176637] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176663] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176692] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176732] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176760] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176789] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176817] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176844] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176870] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176894] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176918] sd 2:0:0:0: rejecting I/O to offline device
+[71452.176942] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177096] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177099] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177123] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177147] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177171] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177377] blk_update_request: I/O error, dev sda, sector 8726240
+[71452.177386] Buffer I/O error on device sda1, logical block 1090524
+[71452.177388] Buffer I/O error on device sda1, logical block 1090525
+[71452.177390] Buffer I/O error on device sda1, logical block 1090526
+[71452.177391] Buffer I/O error on device sda1, logical block 1090527
+[71452.177392] Buffer I/O error on device sda1, logical block 1090528
+[71452.177393] Buffer I/O error on device sda1, logical block 1090529
+[71452.177394] Buffer I/O error on device sda1, logical block 1090530
+[71452.177395] Buffer I/O error on device sda1, logical block 1090531
+[71452.177396] Buffer I/O error on device sda1, logical block 1090532
+[71452.177397] Buffer I/O error on device sda1, logical block 1090533
+[71452.177444] blk_update_request: I/O error, dev sda, sector 8729488
+[71452.177522] EXT4-fs error (device sda1): ext4_journal_check_start:56: [71452.177524] EXT4-fs (sda1): Remounting filesystem read-only
+[71452.177526] EXT4-fs (sda1): previous I/O error to superblock detected
+[71452.177536] sd 2:0:0:0: rejecting I/O to offline device
+[71452.177542] EXT4-fs (sda1): ext4_writepages: jbd2_start: 1024 pages, ino 369; err -30
+[71452.178231] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178237] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178239] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178243] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178273] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178305] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178335] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178367] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178398] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178428] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178453] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178489] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178525] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178561] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178598] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178636] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178697] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178700] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178702] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178707] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178709] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178712] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178731] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178735] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178737] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178739] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178742] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178744] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178746] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178749] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178751] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178754] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178801] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178804] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178807] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178812] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178814] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178818] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178820] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178823] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178827] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178830] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178832] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178834] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178837] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178839] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178841] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178843] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178865] sd 2:0:0:0: rejecting I/O to offline device
+[71452.178867] sd 2:0:0:0: rejecting I/O to offline device
+[71452.179654] EXT4-fs error (device sda1) in ext4_reserve_inode_write:5122: Journal has aborted
+[71452.179656] EXT4-fs (sda1): previous I/O error to superblock detected
+[71452.179778] sd 2:0:0:0: rejecting I/O to offline device
+
+[71453.530658] 	0-...: (9 ticks this GP) idle=dfb/140000000000001/0 softirq=85159/85159 fqs=10 
+[71453.580762] 	 (t=19349 jiffies g=67441 c=67440 q=36)
+[71453.649742] blk_update_request: I/O error, dev sda, sector 8725904
+[71453.653604] blk_update_request: I/O error, dev sda, sector 8725456
+[71453.656515] blk_update_request: I/O error, dev sda, sector 8724664
+[71453.660229] blk_update_request: I/O error, dev sda, sector 8722840
+[71453.666068] blk_update_request: I/O error, dev sda, sector 8914944
+[71453.668436] blk_update_request: I/O error, dev sda, sector 4713152
+[71453.713527] blk_update_request: I/O error, dev sda, sector 4713304
+[71453.745738] blk_update_request: I/O error, dev sda, sector 8720880
+[71456.800394] sd 2:0:0:0: rejecting I/O to offline device
+[71456.802331] EXT4-fs error (device sda1): ext4_find_entry:1450: inode #32805: comm unattended-upgr: reading directory lblock 0
+[71456.807929] EXT4-fs (sda1): previous I/O error to superblock detected
+[71456.828387] sd 2:0:0:0: rejecting I/O to offline device
+[71456.830872] sd 2:0:0:0: rejecting I/O to offline device
+[71456.832062] EXT4-fs error (device sda1): ext4_find_entry:1450: inode #32805: comm unattended-upgr: reading directory lblock 0
+[71456.851852] EXT4-fs (sda1): previous I/O error to superblock detected
+[71456.856889] sd 2:0:0:0: rejecting I/O to offline device
+[71456.863548] sd 2:0:0:0: rejecting I/O to offline device
+[71456.872102] EXT4-fs error (device sda1): ext4_find_entry:1450: inode #32805: comm unattended-upgr: reading directory lblock 0
+[71456.880013] EXT4-fs (sda1): previous I/O error to superblock detected
+[71456.883846] sd 2:0:0:0: rejecting I/O to offline device
+[71456.886644] sd 2:0:0:0: rejecting I/O to offline device
+[71456.888272] EXT4-fs error (device sda1): ext4_find_entry:1450: inode #32805: comm unattended-upgr: reading directory lblock 0
+[71456.892604] EXT4-fs (sda1): previous I/O error to superblock detected
+[71456.895735] sd 2:0:0:0: rejecting I/O to offline device
+[71456.910723] sd 2:0:0:0: rejecting I/O to offline device
+[71456.919489] EXT4-fs error (device sda1): ext4_find_entry:1450: inode #32805: comm unattended-upgr: reading directory lblock 0
+[71456.924631] EXT4-fs (sda1): previous I/O error to superblock detected
+[71456.927271] sd 2:0:0:0: rejecting I/O to offline device
+[71456.939174] sd 2:0:0:0: rejecting I/O to offline device
+[71456.951441] sd 2:0:0:0: rejecting I/O to offline device
+[71456.959377] sd 2:0:0:0: rejecting I/O to offline device
+[71456.960773] sd 2:0:0:0: rejecting I/O to offline device
+[71456.978484] sd 2:0:0:0: rejecting I/O to offline device
