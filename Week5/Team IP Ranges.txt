@@ -4,8 +4,27 @@ Team 1: 192.168.1.175-190
 
 Team 2: 192.168.1.191-206
 
+194/195 - Jason
+191/206 - Lap
+192/193 - Dee
+196/197 - Doug
+198/199 - Jacquie
+
+root-idontlikebunnies
+lap-lapdoesntlikebunnieseither
+
 Team 3: 192.168.1.207-222
 
 Team 4: 192.168.1.223-238
 
 Team 5: 192.168.1.239-252
+
+*.sql on database 
+*.php on webserver
+
+Lap@Whatever Gets Access
+/etc/mysql/my.cnf
+/var/log/apache2/error.log
+
+vagrant suspend
+vagrant resume
