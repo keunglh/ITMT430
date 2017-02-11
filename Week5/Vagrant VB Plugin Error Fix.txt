@@ -1,0 +1,12 @@
+Arturo and Lap ran into this problem and found a solution
+
+Just in case other people run into this problem with running 
+the vagrant-vbguest plugin on their Windows 10 machine.
+ 
+http://stackoverflow.com/questions/26102156/unable-to-install-plugin-hostmanager-in-vagrant-in-windows-8-1
+ 
+https://learn-powershell.net/2013/07/16/creating-a-symbolic-link-using-powershell/
+ 
+I found that this was a good fix around for the problem 
+creating a symbolic link. The second link is just a little 
+addendum in case students are using powershell.
